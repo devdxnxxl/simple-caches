@@ -1,10 +1,10 @@
 {
   "name": "simple-caches",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Custom Cache Implementations (TTL, LRU and REDIS)",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devdxnxxl/simple-caches.git"
